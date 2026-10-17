@@ -1,0 +1,7 @@
+This is a short line.
+Google Cloud Platform is being used for this assignment.
+This is another line.
+This line is deliberately made much longer than the other lines so that it can be identified as one of the longest lines.
+This is a short line again.
+This line is deliberately made much longer than the other lines so that it can be identified as one of the longest lines.
+End of the test file.
