@@ -1,0 +1,13 @@
+Assignment 3 - Click Counts by Time of Day
+
+RDD Implementation:
+0-6: 44 clicks
+6-12: 53 clicks
+12-18: 48 clicks
+18-24: 55 clicks
+
+DataFrame Implementation:
+0-6: 44 clicks
+6-12: 53 clicks
+12-18: 48 clicks
+18-24: 55 clicks
